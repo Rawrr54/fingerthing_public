@@ -1,4 +1,5 @@
 **FINGERTHING:**
+- Bluetooth Low Energy
 - Optical Navigation and LED
 - main button
 - secondary button
