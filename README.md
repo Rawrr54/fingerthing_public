@@ -1,11 +1,11 @@
 **FINGERTHING:**
 - Bluetooth Low Energy
 - Optical Navigation and LED
-- big button 
-- small button
+- Big button 
+- Small button
 - NFC Type 4 Emulator
 - Qi Wireless Charging
-
+- 1 day battery life
 
 **OFF/ON:**
 - press and hold small button for atleast 2 seconds before releasing to toggle between ON/OFF state.
@@ -15,7 +15,6 @@
 
 **SOFT RESET:**
 - press and hold small button for atleast 5 seconds before releasing. Upon release, the device will soft reset.
-
 
 **MODES OF OPERATION (Media, Cursor, Scroll). Switch between modes with the small button**
 
@@ -35,5 +34,3 @@
 
 **NFC type 4 emulator**
 - readable and rewritable
-
-
